@@ -1,5 +1,7 @@
 # Advarisk_task
 
+
+
 Advarisk_task
 # Scraping data from Companies incorporated in India website and storing the data in MongoDB
 . This Adavarisk.ipynb script demonstrates how to scrape a website and store the scraped data into a MongoDB database using Python.
@@ -31,6 +33,8 @@ Push all data in mongodb database
 . pymongo is the official MongoDB driver for Python
 . Make connection with database and create a new database 
 . inside newdatabse create a collection and put all data inside collection
+
+# NOTE in this script headers can also be included for example user-agent
 
 #Run the script
 
